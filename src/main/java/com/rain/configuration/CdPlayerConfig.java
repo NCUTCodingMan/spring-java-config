@@ -2,7 +2,6 @@ package com.rain.configuration;
 
 import com.rain.business.CdPlayer;
 import com.rain.business.CompactDisc;
-import com.rain.business.SgtPeppers;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
